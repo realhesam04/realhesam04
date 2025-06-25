@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realhesam04 and I'm a student of Software and Computer Engineering
 - 👀 I’m interested in Coding and creating websites and apps :)
-- 🌱 I’m currently learning C# and I'm going to learn Django as well
+- 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : IG: realhesamehsani  Tel: @realhesam83 
 
