@@ -32,7 +32,7 @@ My main stack is **Python**, **Django**, **Django REST Framework**, **PostgreSQL
 
 ### 📫 How to reach me
 
-- **Email:** hesamehsanimoghaddam2004@gmail.com
+- **Email:** hesamehsani.dev@gmail.com
 - **Instagram:** realhesamehsani
 - **GitHub:** [realhesam04](https://github.com/realhesam04)
 - **LinkedIn:** Not yet!
